@@ -125,13 +125,13 @@ img{
 }
 #home{
     border: 1px solid #000;
-    background-image: url(/images/main-bg1.jpg);
+    background-image: url(../images/main-bg1.jpg);
     min-height: 100vh;
 }
 
 /* News */
 #news{
-    background-image: url(/images/news-bg1.jpg);
+    background-image: url(../images/news-bg1.jpg);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -231,7 +231,7 @@ aside p{
 
 /* Menu */
 #menu{
-    background-image: url(/images/menu-bg1.jpg);
+    background-image: url(../images/menu-bg1.jpg);
     min-height: 100vh;
 }
 .menu-content{
